@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Homes on Tae &amp; Kyoung</title>
+    <link>https://touktw.github.io/wedding/home/</link>
+    <description>Recent content in Homes on Tae &amp; Kyoung</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="https://touktw.github.io/wedding/home/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title></title>
+      <link>https://touktw.github.io/wedding/home/first/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://touktw.github.io/wedding/home/first/</guid>
+      <description>2010. 04. 17.     우리는 여기서 처음 만났습니다 </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://touktw.github.io/wedding/home/second/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://touktw.github.io/wedding/home/second/</guid>
+      <description>그리고 다음날,     에서 다시 만난 우리는  2010. 04. 18.  을 우리 인연의 첫날로 삼기로 했습니다 </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://touktw.github.io/wedding/home/mid/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://touktw.github.io/wedding/home/mid/</guid>
+      <description>그리고 10 년의 시간동안  서로의 어학 연수로 멀리 떨어져도 있어보고  많이 싸워도 보고  많이 헤어져도 보았지만  그래도 계속 서로 사랑 을 키워나갔습니다 </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://touktw.github.io/wedding/home/last/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://touktw.github.io/wedding/home/last/</guid>
+      <description>그렇게 10년의 시간이 결실을 맺어  2020. 04. 18.   토요일 오후 3시 30분     여기서      여기서    서로 하나가 되려 합니다  부디 참석해서 저희를 축복해주세요  감사합니다  처음으로 </description>
+    </item>
+    
+  </channel>
+</rss>
